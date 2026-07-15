@@ -9,3 +9,8 @@ HOW TO PLAY
 Install main.cpp and compile and run the file to access the game
 You can give commands like w a s d for movement and kill enemies. You will also get a weapon
 
+
+  **Compile the file:**
+   ```bash
+   g++ main.cpp -o my_program
+   ```
